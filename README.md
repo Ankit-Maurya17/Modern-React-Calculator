@@ -278,10 +278,9 @@ Contributions are welcome! Please follow these steps:
 ## 👨‍💻 Author
 
 **Ankit Maurya**
+- GitHub: [Ankit Maurya](https://github.com/Ankit-Maurya17/))
 
-- GitHub: [Ankit Maurya]((https://github.com/Ankit-Maurya1))
-
-- LinkedIn: [Ankit Maurya]((https://www.linkedin.com/in/ankit-maurya-467b61342/))
+- LinkedIn: [Ankit Maurya](https://www.linkedin.com/in/ankit-maurya-467b61342/))
 
 ## 📬 Contact
 
